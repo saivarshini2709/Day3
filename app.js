@@ -63,5 +63,5 @@
 // console.log(a);
 // console.log(typeof(null));
 
-console.log(2n , typeof(2n));
+//console.log(2n , typeof(2n));
 
